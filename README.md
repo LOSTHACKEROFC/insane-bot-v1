@@ -25,6 +25,8 @@ Project created by <a href="https://github.com/insanebwoi">Insane-boy</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@LOSTHACKEROFC/JulieMwol)
+  
 ### The Hard Method
 ```js
 GET QR
